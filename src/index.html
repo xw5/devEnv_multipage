@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    @@include("template/meta.html",{
+        "title":"***官网-首页"
+    })
+    <link rel="stylesheet" href="./css/index.css">
+</head>
+<body>
+    <!-- 头部导航 S-->
+    @@include("template/header.html",{
+    "class":"",
+    "href":"javascript:void(0);"
+    })
+    <!-- 头部导航 E-->
+    <div class="index_con">
+        <h1>这里是首页</h1>
+        <img src="./assets/index/recent_news_imgl.png" alt="">
+    </div>
+    <!--底部导航-->
+    @@include("template/footer.html")
+
+    <script type="text/javascript" src="./js/lib/jquery/jquery.min.js"></script>
+    <script type="text/javascript" src="./js/index.js"></script>
+</body>
+</html>

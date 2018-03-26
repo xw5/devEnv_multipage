@@ -1,0 +1,11 @@
+@charset "utf-8";
+@import "./core/normalize";
+@import "./core/reset";
+@import "./core/header";
+@import "./core/footer";
+
+.index_con{
+  width:100%;
+  overflow:hidden;
+  background:green;
+}

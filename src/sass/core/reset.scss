@@ -1,0 +1,17 @@
+@charset "utf-8";
+/*样式重置*/
+body{
+  background:#fff;
+}
+ul,dd,p{
+    padding:0;
+    margin:0;
+  }
+li{
+    list-style:none;
+  }
+a,a:hover{
+  -webkit-tap-highlight-color: rgba(0,0,0,0);
+  tap-highlight-color: rgba(0,0,0,0);
+  text-decoration:none;
+}
