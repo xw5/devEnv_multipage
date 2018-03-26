@@ -4,6 +4,7 @@
 ### gulp命令相关介绍
 
 * 项目支持scss解析gulp-sass
+* 自动添加浏览器兼容前辍 gulp-autoprefixer
 * html共用模板提取gulp-include
 * js模块化开发webpack(require)
 * 自动启动开发服务器，并启用浏览器，支持修改自动刷新browser-sync
