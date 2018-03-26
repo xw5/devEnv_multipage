@@ -22,4 +22,4 @@
 * doc:存放交互文挡，设计稿等项目相关资料
 * src:是主要开发代码目录
 细分的具体目录详情见下图:
-![目录结构细分图](http://i1.bvimg.com/630528/bf60652ef62bdda1.png)
+![目录结构细分图](https://raw.githubusercontent.com/xw5/devEnv_multipage/master/dirimg.png)
