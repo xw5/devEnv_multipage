@@ -15,9 +15,9 @@ var devUrl = 'dist/';
 var publishUrl = 'publish/';
 var cdnUrl = 'http://www.test.com/';
 var changeUrl = {
-  './assets/': cdnUrl+'assets/',
-  './css/': cdnUrl+'css/',
-  './js/': cdnUrl+'js/'
+  '\\./assets/': cdnUrl+'assets/',
+  '\\./css/': cdnUrl+'css/',
+  '\\./js/': cdnUrl+'js/'
 };
 
 //清除js
